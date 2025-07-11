@@ -53,7 +53,7 @@ This advanced Arkanoid implementation includes all the requested features plus a
 
 #### 5. **Professional UI/UX** 🎨
 - **Enhanced Title Screen**: 
-  - Game subtitle "Advanced Python Edition"
+  - Game subtitle "Python Arkanoid Game"
   - Complete control instructions
   - Professional layout
 - **In-Game HUD**: 

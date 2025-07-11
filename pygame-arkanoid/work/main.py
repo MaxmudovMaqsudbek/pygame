@@ -478,7 +478,7 @@ class Game:
         title_rect = title_surface.get_rect(center=(self.screen_width / 2, self.screen_height / 2 - 100))
         self.screen.blit(title_surface, title_rect)
         
-        subtitle_surface = self.game_font.render("Advanced Python Edition", True, (200, 200, 200))
+        subtitle_surface = self.game_font.render("Python Arkanoid Game", True, (200, 200, 200))
         subtitle_rect = subtitle_surface.get_rect(center=(self.screen_width / 2, self.screen_height / 2 - 50))
         self.screen.blit(subtitle_surface, subtitle_rect)
         
