@@ -1,4 +1,4 @@
-# 🎮 APython Arkanoid - Complete Implementation
+# 🎮 Python Arkanoid - Complete Implementation
 
 ## 🚀 Problem Solved: Mute Functionality
 
